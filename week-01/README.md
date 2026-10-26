@@ -2,55 +2,59 @@
 
 ## 🎯 Learning Goals
 
-- Understand what Python is and how it works.
+- Understand what Python is and how to use it.
 - Learn Python's basic data types.
-- Understand how to store and manage data using variables.
+- Understand how variables store and reference data.
 - Practice writing simple Python programs.
-- Build a strong foundation for the next stage of learning.
+- Review the week's concepts through exercises.
 
-## 📚 Study Plan
+## 📅 Daily Study Plan
 
 ### Day 1 — What Is Python?
-- [ ] Understand what Python is.
-- [ ] Learn about Python's features and applications.
-- [ ] Write and run my first Python program.
+- [ ] Getting Started with Python
+- [ ] Features of Python
+- [ ] What Can You Do with Python?
+- [ ] Installing Python
+- [ ] Exploring Python
 
-### Day 2 — Numbers
-- [ ] Learn about integers and floating-point numbers.
-- [ ] Practice arithmetic operators.
-- [ ] Understand basic numerical calculations.
+### Day 2 — Numbers and Strings
+- [ ] Number Data Types
+- [ ] String Data Types
+- [ ] Practice examples
 
-### Day 3 — Strings
-- [ ] Learn how to create and use strings.
-- [ ] Practice string indexing and slicing.
-- [ ] Explore string formatting and useful string methods.
+### Day 3 — Lists
+- [ ] Understanding Lists
+- [ ] Accessing List Elements
+- [ ] List Slicing and Operations
+- [ ] Practice examples
 
-### Day 4 — Lists
-- [ ] Understand lists and their characteristics.
-- [ ] Practice indexing and slicing.
-- [ ] Learn how to add, remove, and modify list elements.
+### Day 4 — Tuples
+- [ ] Understanding Tuples
+- [ ] Accessing Tuple Elements
+- [ ] Understanding the Difference Between Lists and Tuples
+- [ ] Practice examples
 
-### Day 5 — Tuples
-- [ ] Understand tuples and their characteristics.
-- [ ] Learn the difference between lists and tuples.
-- [ ] Practice creating and accessing tuples.
+### Day 5 — Dictionaries
+- [ ] Understanding Dictionaries
+- [ ] Working with Key-Value Pairs
+- [ ] Adding, Updating, and Removing Items
+- [ ] Practice examples
 
-### Day 6 — Dictionaries
-- [ ] Understand key-value pairs.
-- [ ] Practice accessing, adding, updating, and deleting values.
-- [ ] Learn how dictionaries differ from other data types.
+### Day 6 — Sets
+- [ ] Understanding Sets
+- [ ] Working with Unique Elements
+- [ ] Set Operations
+- [ ] Practice examples
 
-### Day 7 — Sets, Truth Values, and Variables
-- [ ] Understand sets and their characteristics.
-- [ ] Learn how Python evaluates truth values.
-- [ ] Understand variables and object references.
-- [ ] Review the week's topics.
+### Day 7 — Truth Values and Variables
+- [ ] Understanding Truth Values
+- [ ] Understanding Variables
+- [ ] Understanding How Python Stores and References Objects
+- [ ] Review Week 1 Topics
 
 ## 💻 Coding Practice
 
 I will save my code examples and practice exercises in this folder.
-
-Planned files:
 
 ```text
 week-01/
@@ -78,15 +82,14 @@ week-01/
 **Topics I need to review**
 - 
 
-## ✅ Week 1 Checklist
+## ✅ Week 1 Completion Checklist
 
-- [ ] Complete Day 1–3
-- [ ] Complete Day 4–5
-- [ ] Complete Day 6–7
-- [ ] Solve practice exercises independently
-- [ ] Upload my code to GitHub
-- [ ] Review the week's topics
+- [ ] Complete all seven days of study
+- [ ] Write and run Python code
+- [ ] Review important concepts
+- [ ] Complete the practice exercises
+- [ ] Upload my progress to GitHub
 
 ---
 
-**Goal: Understand the fundamentals, write code consistently, and keep improving. 🚀**
+**One week completed, one step forward! 🚀**
